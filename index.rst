@@ -17,7 +17,7 @@ Azkaban was implemented at LinkedIn to solve the problem of Hadoop job dependenc
 See the `Quick start <http://www.python.org/>`_  for more details.
 
 
-   getStarted
+
 
 
 

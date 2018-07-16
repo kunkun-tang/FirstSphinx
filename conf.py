@@ -19,7 +19,6 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-import sphinx_bootstrap_theme
 
 
 # -- General configuration ------------------------------------------------
@@ -88,9 +87,7 @@ todo_include_todos = False
 # a list of builtin themes.
 #
 # html_theme = 'alabaster'
-import sphinx_theme_pd
-html_theme = "sphinx_theme_pd"
-html_theme_path = [sphinx_theme_pd.get_html_theme_path()]
+html_theme = "sphinx_rtd_theme"
 
 # html_theme_options = {
 #     'show_fossasia_logo': 'true',
